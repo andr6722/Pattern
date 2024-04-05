@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Pattern\\pattern_porxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BB1C68-DF1B-418E-91B2-A19313D0572E}|pattern_porxy\\pattern_porxy.vcxproj|C:\\Users\\andre\\source\\repos\\Pattern\\pattern_porxy\\pattern_porxy\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90BB1C68-DF1B-418E-91B2-A19313D0572E}|pattern_porxy\\pattern_porxy.vcxproj|solutionrelative:pattern_porxy\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Pattern\\pattern_porxy\\pattern_porxy\\Main.cpp",
+              "RelativeDocumentMoniker": "pattern_porxy\\Main.cpp",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Pattern\\pattern_porxy\\pattern_porxy\\Main.cpp",
+              "RelativeToolTip": "pattern_porxy\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:02:18.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

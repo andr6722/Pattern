@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:         with
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:         [
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:             T=unsigned int
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:         ]
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:         and
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:         [
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:             T=float
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,58): warning C4244:         ]
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:         with
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:         [
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:             T=unsigned int
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:         ]
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:         and
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:         [
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:             T=float
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(55,50): warning C4244:         ]
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,67): warning C4244:         with
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,67): warning C4244:         [
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,67): warning C4244:             T=float
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,67): warning C4244:         ]
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,29): warning C4244:         with
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,29): warning C4244:         [
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,29): warning C4244:             T=float
+C:\Users\andre\source\repos\Pattern\pattern_porxy\pattern_porxy\Main.cpp(104,29): warning C4244:         ]
+  pattern_porxy.vcxproj -> C:\Users\andre\source\repos\Pattern\pattern_porxy\x64\Debug\pattern_porxy.exe
